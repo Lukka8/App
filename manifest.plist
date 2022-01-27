@@ -1,0 +1,30 @@
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://www.dropbox.com/pri/get/Memoriess.ipa?_download_id=94239447883587219378121797145376927411903235880322052648097145688&_notify_domain=www.dropbox.com&_subject_uid=644478971&w=AACO7aKmBI1-Wr2u8TegOa0effUVXXyB9m10t6ramSEdrw</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>Memories</key>
+                <string>com.memories.Memoriess</string>
+                <key>bundle-version</key>
+                <string>1.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>Memories</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
